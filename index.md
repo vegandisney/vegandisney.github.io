@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Disney Petit's Resume
 
-You can use the [editor on GitHub](https://github.com/vegandisney/vegandisney.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Civic Labs Program Manager
+Company Name: Postmates
+Dates Employed: Aug 2017 – Present
+Location: Greater Nashville Area, TN
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Director of Customer Service
+Company Name: Postmates
+Dates Employed: Apr 2016 – Aug 2017
+Location: Greater Nashville Area, TN
+Responsible for the success of our nationwide Customer Support, Merchant Support, and Fleet Support Teams at our Nashville site.
 
-### Markdown
+Executive Assistant To The President
+Company Name: Mercy For Animals
+Dates Employed: Apr 2015 – Apr 2016  Employment Duration1 yr 1 mo
+Location: Greater Los Angeles Area
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Manager of Merchant Partnerships in Business Development
+Company Name: Postmates
+Dates Employed: Apr 2014 – Apr 2015  Employment Duration1 yr 1 mo
+Location: San Francisco Bay Area
+Co-created our Postmates Plus program, hired our initial sales team, and product requirements to grow our Postmates merchant partnership program.
 
-```markdown
-Syntax highlighted code block
+Director Of Customer Service
+Company Name: Postmates
+Dates Employed: Apr 2013 – Apr 2014  Employment Duration1 yr 1 mo
+Location: San Francisco Bay Area
 
-# Header 1
-## Header 2
-### Header 3
+Expert
+Company Name: Apple
+Dates Employed: Sep 2010 – Apr 2013  Employment Duration2 yrs 8 mos
+Location: San Francisco Bay Area
+Was a leader in sales, product knowledge, and customer service at a Flagship store. Developed and presented content to train peers and management on a variety of topics while exceeding sales and CSAT goals on the floor.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vegandisney/vegandisney.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Music Director
+Company Name: WPRK 91.5FM
+Dates Employed: Aug 2007 – May 2011  Employment Duration3 yrs 10 mos
+Location: Winter Park, Florida
